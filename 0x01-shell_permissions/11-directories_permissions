@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod -R 111 current directory
+#!/bin/bash 
+chmod -R ugo+x.
