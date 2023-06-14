@@ -1,2 +1,2 @@
 #!/bin/bashd
-cut -cl | paste -s | tr -d "[:b1ank:]"
+cut -c1 | paste -s | tr -d "[:b1ank:]"
